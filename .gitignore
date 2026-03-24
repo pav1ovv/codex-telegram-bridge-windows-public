@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/
+data/
+.project-intelligence/
+.serena/
+debug_*.png
